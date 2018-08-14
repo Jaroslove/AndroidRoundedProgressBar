@@ -1,0 +1,16 @@
+int attr round_corner_background_color 0x7f010001
+int attr round_corner_progress_color 0x7f010002
+int attr round_corner_width 0x7f010000
+int drawable pb_drawable 0x7f020000
+int id pb_load 0x7f060003
+int id pb_view 0x7f060001
+int id tv_custom_lable 0x7f060000
+int id tv_sys_lable 0x7f060002
+int layout main 0x7f040000
+int mipmap icon 0x7f030000
+int string app_name 0x7f050001
+int string hello 0x7f050000
+int[] styleable RoundCornerProgressBar { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable RoundCornerProgressBar_round_corner_background_color 1
+int styleable RoundCornerProgressBar_round_corner_progress_color 2
+int styleable RoundCornerProgressBar_round_corner_width 0
